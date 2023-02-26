@@ -1,0 +1,5 @@
+M = input()
+N = int(input())
+O = len(M)
+x = ("0"*(N-O))
+print(x+M)
